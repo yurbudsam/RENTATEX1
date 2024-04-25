@@ -1,11 +1,11 @@
 [
   {
     "id": 0,
-    "title": "Frieda",
-    "picture": "imprices/scottish-terrier.jpeg",
-    "price": 3,
-    "author": "Scottish Terrier",
-    "subject": "Lisco, Alabama"
+    "title": "Problem Solving with C++",
+    "picture": "imprices/savitch.jpeg",
+    "price": 100,
+    "author": "Walter Savitch",
+    "subject": "Computer Science"
   },
   {
     "id": 1,
