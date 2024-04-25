@@ -9,19 +9,19 @@
   },
   {
     "id": 1,
-    "title": "Gina",
-    "picture": "imprices/scottish-terrier.jpeg",
-    "price": 3,
-    "author": "Scottish Terrier",
-    "subject": "Tooleville, West Virginia"
+    "title": "Physics Fundamentals",
+    "picture": "imprices/coletta",
+    "price": 80,
+    "author": "Vincent P. Coletta",
+    "subject": "Physics"
   },
   {
     "id": 2,
-    "title": "Collins",
-    "picture": "imprices/french-bulldog.jpeg",
-    "price": 2,
-    "author": "French Bulldog",
-    "subject": "Freeburn, Idaho"
+    "title": "American History",
+    "picture": "imprices/mcdougal.jpeg",
+    "price":120,
+    "author": "McDougal Littell",
+    "subject": "History"
   },
   {
     "id": 3,
