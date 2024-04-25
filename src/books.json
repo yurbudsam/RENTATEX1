@@ -10,7 +10,7 @@
   {
     "id": 1,
     "title": "Physics Fundamentals",
-    "picture": "imprices/coletta",
+    "picture": "imprices/coletta.jpeg",
     "price": 80,
     "author": "Vincent P. Coletta",
     "subject": "Physics"
@@ -25,106 +25,106 @@
   },
   {
     "id": 3,
-    "title": "Melissa",
-    "picture": "imprices/boxer.jpeg",
-    "price": 2,
-    "author": "Boxer",
-    "subject": "Camas, Pennsylvania"
+    "title": "Modern Chemistry",
+    "picture": "imprices/sarquis.jpeg",
+    "price": 55,
+    "author": "Sarquis",
+    "subject": "Chemistry"
   },
   {
     "id": 4,
-    "title": "Jeanine",
-    "picture": "imprices/french-bulldog.jpeg",
-    "price": 2,
-    "author": "French Bulldog",
-    "subject": "Gerber, South Dakota"
+    "title": "Physics Fundamentals",
+    "picture": "imprices/coletta.jpeg",
+    "price": 80,
+    "author": "Vincent P. Coletta",
+    "subject": "Physics"
   },
   {
     "id": 5,
-    "title": "Elvia",
-    "picture": "imprices/french-bulldog.jpeg",
-    "price": 3,
-    "author": "French Bulldog",
-    "subject": "Innsbrook, Illinois"
+    "title": "Modern Chemistry",
+    "picture": "imprices/sarquis.jpeg",
+    "price": 55,
+    "author": "Sarquis",
+    "subject": "Chemistry"
   },
   {
     "id": 6,
-    "title": "Latisha",
-    "picture": "imprices/golden-retriever.jpeg",
-    "price": 3,
-    "author": "Golden Retriever",
-    "subject": "Soudan, Louisiana"
+    "title": "American History",
+    "picture": "imprices/mcdougal.jpeg",
+    "price":120,
+    "author": "McDougal Littell",
+    "subject": "History"
   },
   {
     "id": 7,
-    "title": "Coleman",
-    "picture": "imprices/golden-retriever.jpeg",
-    "price": 3,
-    "author": "Golden Retriever",
-    "subject": "Jacksonwald, Palau"
+    "title": "¡Avancemos!",
+    "picture": "imprices/spanish.jpeg",
+    "price": 75,
+    "author": "McDougal",
+    "subject": "Spanish"
   },
   {
     "id": 8,
-    "title": "Nichole",
-    "picture": "imprices/french-bulldog.jpeg",
-    "price": 2,
-    "author": "French Bulldog",
-    "subject": "Honolulu, Hawaii"
+    "title": "Bien Dit",
+    "picture": "imprices/french.jpeg",
+    "price": 45,
+    "author": "McDougal",
+    "subject": "French"
   },
   {
     "id": 9,
-    "title": "Fran",
-    "picture": "imprices/boxer.jpeg",
-    "price": 3,
-    "author": "Boxer",
-    "subject": "Matheny, Utah"
+    "title": "Bien Dit",
+    "picture": "imprices/french.jpeg",
+    "price": 45,
+    "author": "McDougal",
+    "subject": "French"
   },
   {
     "id": 10,
-    "title": "Leonor",
-    "picture": "imprices/boxer.jpeg",
-    "price": 2,
-    "author": "Boxer",
-    "subject": "Tyhee, Indiana"
+    "title": "Problem Solving with C++",
+    "picture": "imprices/savitch.jpeg",
+    "price": 100,
+    "author": "Walter Savitch",
+    "subject": "Computer Science"
   },
   {
     "id": 11,
-    "title": "Dean",
-    "picture": "imprices/scottish-terrier.jpeg",
-    "price": 3,
-    "author": "Scottish Terrier",
-    "subject": "Windsor, Montana"
+    "title": "¡Avancemos!",
+    "picture": "imprices/spanish.jpeg",
+    "price": 75,
+    "author": "McDougal",
+    "subject": "Spanish"
   },
   {
     "id": 12,
-    "title": "Stevenson",
-    "picture": "imprices/french-bulldog.jpeg",
-    "price": 3,
-    "author": "French Bulldog",
-    "subject": "Kingstowne, Nevada"
+    "title": "Modern Chemistry",
+    "picture": "imprices/sarquis.jpeg",
+    "price": 55,
+    "author": "Sarquis",
+    "subject": "Chemistry"
   },
   {
     "id": 13,
-    "title": "Kristina",
-    "picture": "imprices/golden-retriever.jpeg",
-    "price": 4,
-    "author": "Golden Retriever",
-    "subject": "Sultana, Massachusetts"
+    "title": "¡Avancemos!",
+    "picture": "imprices/spanish.jpeg",
+    "price": 75,
+    "author": "McDougal",
+    "subject": "Spanish"
   },
   {
     "id": 14,
-    "title": "Ethel",
-    "picture": "imprices/golden-retriever.jpeg",
-    "price": 2,
-    "author": "Golden Retriever",
-    "subject": "Broadlands, Oregon"
+    "title": "Problem Solving with C++",
+    "picture": "imprices/savitch.jpeg",
+    "price": 100,
+    "author": "Walter Savitch",
+    "subject": "Computer Science"
   },
   {
     "id": 15,
-    "title": "Terry",
-    "picture": "imprices/golden-retriever.jpeg",
-    "price": 2,
-    "author": "Golden Retriever",
-    "subject": "Dawn, Wisconsin"
+    "title": "American History",
+    "picture": "imprices/mcdougal.jpeg",
+    "price":120,
+    "author": "McDougal Littell",
+    "subject": "History"
   }
 ]
