@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Problem Solving with C++",
-    "picture": "imprices/savitch.jpeg",
+    "picture": "images/savitch.jpeg",
     "price": 100,
     "author": "Walter Savitch",
     "subject": "Computer Science"
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "title": "Physics Fundamentals",
-    "picture": "imprices/coletta.jpeg",
+    "picture": "images/coletta.jpeg",
     "price": 80,
     "author": "Vincent P. Coletta",
     "subject": "Physics"
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "title": "American History",
-    "picture": "imprices/mcdougal.jpeg",
+    "picture": "images/mcdougal.jpeg",
     "price":120,
     "author": "McDougal Littell",
     "subject": "History"
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "Modern Chemistry",
-    "picture": "imprices/sarquis.jpeg",
+    "picture": "images/sarquis.jpeg",
     "price": 55,
     "author": "Sarquis",
     "subject": "Chemistry"
@@ -34,7 +34,7 @@
   {
     "id": 4,
     "title": "Physics Fundamentals",
-    "picture": "imprices/coletta.jpeg",
+    "picture": "images/coletta.jpeg",
     "price": 80,
     "author": "Vincent P. Coletta",
     "subject": "Physics"
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "title": "Modern Chemistry",
-    "picture": "imprices/sarquis.jpeg",
+    "picture": "images/sarquis.jpeg",
     "price": 55,
     "author": "Sarquis",
     "subject": "Chemistry"
@@ -50,7 +50,7 @@
   {
     "id": 6,
     "title": "American History",
-    "picture": "imprices/mcdougal.jpeg",
+    "picture": "images/mcdougal.jpeg",
     "price":120,
     "author": "McDougal Littell",
     "subject": "History"
@@ -58,7 +58,7 @@
   {
     "id": 7,
     "title": "¡Avancemos!",
-    "picture": "imprices/spanish.jpeg",
+    "picture": "images/spanish.jpeg",
     "price": 75,
     "author": "McDougal",
     "subject": "Spanish"
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "title": "Bien Dit",
-    "picture": "imprices/french.jpeg",
+    "picture": "images/french.jpeg",
     "price": 45,
     "author": "McDougal",
     "subject": "French"
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "title": "Bien Dit",
-    "picture": "imprices/french.jpeg",
+    "picture": "images/french.jpeg",
     "price": 45,
     "author": "McDougal",
     "subject": "French"
@@ -82,7 +82,7 @@
   {
     "id": 10,
     "title": "Problem Solving with C++",
-    "picture": "imprices/savitch.jpeg",
+    "picture": "images/savitch.jpeg",
     "price": 100,
     "author": "Walter Savitch",
     "subject": "Computer Science"
@@ -90,7 +90,7 @@
   {
     "id": 11,
     "title": "¡Avancemos!",
-    "picture": "imprices/spanish.jpeg",
+    "picture": "images/spanish.jpeg",
     "price": 75,
     "author": "McDougal",
     "subject": "Spanish"
@@ -98,7 +98,7 @@
   {
     "id": 12,
     "title": "Modern Chemistry",
-    "picture": "imprices/sarquis.jpeg",
+    "picture": "images/sarquis.jpeg",
     "price": 55,
     "author": "Sarquis",
     "subject": "Chemistry"
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "title": "¡Avancemos!",
-    "picture": "imprices/spanish.jpeg",
+    "picture": "images/spanish.jpeg",
     "price": 75,
     "author": "McDougal",
     "subject": "Spanish"
@@ -114,7 +114,7 @@
   {
     "id": 14,
     "title": "Problem Solving with C++",
-    "picture": "imprices/savitch.jpeg",
+    "picture": "images/savitch.jpeg",
     "price": 100,
     "author": "Walter Savitch",
     "subject": "Computer Science"
@@ -122,7 +122,7 @@
   {
     "id": 15,
     "title": "American History",
-    "picture": "imprices/mcdougal.jpeg",
+    "picture": "images/mcdougal.jpeg",
     "price":120,
     "author": "McDougal Littell",
     "subject": "History"
