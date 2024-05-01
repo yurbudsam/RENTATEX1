@@ -11,9 +11,9 @@ App = {
       for (i = 0; i < data.length; i ++) {
         bookTemplate.find('.panel-title').text(data[i].title);
         bookTemplate.find('img').attr('src', data[i].picture);
-        bookTemplate.find('.book-author').text(data[i].author);
-        bookTemplate.find('.book-price').text(data[i].price);
-        bookTemplate.find('.book-subject').text(data[i].subject);
+        bookTemplate.find('.author').text(data[i].author);
+        bookTemplate.find('.price').text(data[i].price);
+        bookTemplate.find('.subject').text(data[i].subject);
         bookTemplate.find('.btn-rent').attr('data-id', data[i].id);
 
         booksRow.append(bookTemplate.html());
